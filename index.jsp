@@ -1,4 +1,4 @@
-<%@ page import="java.util.Properties" %>
+<%@ page import="java.util.Properties, java.util.*" %>
 <!DOCTYPE html>
 <html>
 <head>
